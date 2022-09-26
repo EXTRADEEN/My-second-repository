@@ -14,3 +14,4 @@ This readme contain: 0-iam_betty - script that switches the current user to the 
 -rwxr-x-wx
 10-mirror_permissions - Script that sets the mode of the file "hello" the same as "olleh" 's mode
 11-directories_permissions - Script that adds execute permisions to all subdirectories of the current directory for the owner, group owner and all other users.Regular files are not changed
+12-directory_permissions - Script that creates a directory caled "my_dir" with permissions 751 in the working directory
