@@ -4,3 +4,4 @@ This readme contain: 0-iam_betty - script that switches the current user to the 
 3-new_owner - script that change the owner of the fille
 4-empty - script that creates an file
 5-execute - script that adds execute permission to the owner
+6-multiple_permission - script that adds execute permission to the owner, group and other users
