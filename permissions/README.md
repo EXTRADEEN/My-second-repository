@@ -12,3 +12,4 @@ This readme contain: 0-iam_betty - script that switches the current user to the 
 - Other users: all the permisions
 9-John_Doe - script that sets the mode of the file to this:
 -rwxr-x-wx
+10-mirror_permissions - Script that sets the mode of the file "hello" the same as "olleh" 's mode
