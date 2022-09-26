@@ -10,3 +10,5 @@ This readme contain: 0-iam_betty - script that switches the current user to the 
 - Owner:no permissions at all
 - Group:no permissions at all
 - Other users: all the permisions
+9-John_Doe - script that sets the mode of the file to this:
+-rwxr-x-wx
