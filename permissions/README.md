@@ -16,3 +16,6 @@ This readme contain: 0-iam_betty - script that switches the current user to the 
 11-directories_permissions - Script that adds execute permisions to all subdirectories of the current directory for the owner, group owner and all other users.Regular files are not changed
 12-directory_permissions - Script that creates a directory caled "my_dir" with permissions 751 in the working directory
 13-change_group - Script that changes the group owner to school for file helle
+14-change_owner_and_group - Script that changes the owner and the group for all files and directories in yhe working directory
+15-symbolic_linc_permissions - Script that changes the owner and the group owner
+16-if_only - Script that changes the owner only is owned by the user (username)
