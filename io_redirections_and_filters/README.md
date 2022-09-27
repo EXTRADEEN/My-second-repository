@@ -10,3 +10,5 @@ is a script thet creates a file named exctly "\*\\Best School'\*$?*\*\*\*\*:)" c
 9-duplicate_last_line - is a script that duplicates the last line of file "iacta"
 10-no_more_js - is a script that deletes all the regular files (not the directories) with a ".js" extension that are present in the current directory and all its subfolders
 11-directories - is script that counts the number of directories an sub-directories in the current directory
+12-newests_file - is a script that displays the 10 newest files in the current directory
+13-unique - is na script that takes a list of words as input and prints only words that appear exactly once
