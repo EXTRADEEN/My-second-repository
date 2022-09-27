@@ -14,3 +14,4 @@ is a script thet creates a file named exctly "\*\\Best School'\*$?*\*\*\*\*:)" c
 13-unique - is na script that takes a list of words as input and prints only words that appear exactly once
 14-findthatword - is a script that displays lines containing the patern "root" from file "/etc/passwd"
 15-countthatword - is a script that displays the number of lines that contain the patern "bin" in the file "/etc/passwd"
+16-whatsnext - is a script that displays lines containing the pattern "root" and 3 lines after them in file "/etc/passwd"
