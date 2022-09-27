@@ -12,3 +12,4 @@ is a script thet creates a file named exctly "\*\\Best School'\*$?*\*\*\*\*:)" c
 11-directories - is script that counts the number of directories an sub-directories in the current directory
 12-newests_file - is a script that displays the 10 newest files in the current directory
 13-unique - is na script that takes a list of words as input and prints only words that appear exactly once
+14-findthatword - is a script that displays lines containing the patern "root" from file "/etc/passwd"
