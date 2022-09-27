@@ -20,3 +20,4 @@ is a script thet creates a file named exctly "\*\\Best School'\*$?*\*\*\*\*:)" c
 19-AZ - is a script that replace all characters "A" and "c" form input to "z" and "e" respectively
 20-hiago - is a script that removes all letters "c" and "C" from input
 21-reverse - is a script that reverse its input
+22-user_and_homes - is a script that displays all users and treir home directories, sortet by users
