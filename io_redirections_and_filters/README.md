@@ -16,4 +16,5 @@ is a script thet creates a file named exctly "\*\\Best School'\*$?*\*\*\*\*:)" c
 15-countthatword - is a script that displays the number of lines that contain the patern "bin" in the file "/etc/passwd"
 16-whatsnext - is a script that displays lines containing the pattern "root" and 3 lines after them in file "/etc/passwd"
 17-hidethisword - is a script that displays all the lines in file "/etc/passwd" that do not contain the pattern "bin"
-18-letteronly - is a script that displays all lines of the file ".ttc/ssh/sshd_config starting with a letter
+18-letteronly - is a script that displays all lines of the file "/etc/ssh/sshd_config starting with a letter
+19-AZ - is a script that replace all characters "A" and "c" form input to "z" and "e" respectively
