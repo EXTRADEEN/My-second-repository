@@ -22,3 +22,4 @@ is a script thet creates a file named exctly "\*\\Best School'\*$?*\*\*\*\*:)" c
 21-reverse - is a script that reverse its input
 22-user_and_homes - is a script that displays all users and treir home directories, sortet by users
 23-empty_casks is a script that findt all empty files and directories in the current directory and all sub-directories
+24-gifs - is a script that list all the files with a ".gif" extension in the current directory and all its sub-directorues
