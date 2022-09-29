@@ -7,3 +7,4 @@
 7-create_global_variable - is a script that creates a new global variable
 8-true_knowledge - is a script that prints the resul of the auditin of 128 with the value stored in va environment variable "TRUEKNOWLEDGE, fallowed by a new line
 9-divide_and_rule - is a script that prints the result of "POWER" divided by "DIVIDE", followed by a new line
+10-love_exponent_breath - is a script that displays the result of "BREATH" to the power "LOVE"
