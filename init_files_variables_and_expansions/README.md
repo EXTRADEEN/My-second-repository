@@ -3,3 +3,4 @@
 2-path - is a script that add "/action" to the "PATH" . "/action" should be the last dirrectory the shell looks into when looking for a program
 3-paths - is a script that counts the number of directories in the "PATH" 
 4-global_variables - is a script that lists environment variables
+6-create_local_variable
