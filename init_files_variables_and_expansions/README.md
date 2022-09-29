@@ -5,3 +5,4 @@
 4-global_variables - is a script that lists environment variables
 6-create_local_variable
 7-create_global_variable - is a script that creates a new global variable
+8-true_knowledge - is a script that prints the resul of the auditin of 128 with the value stored in va environment variable "TRUEKNOWLEDGE, fallowed by a new line

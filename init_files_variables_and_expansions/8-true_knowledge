@@ -1,0 +1,2 @@
+#!/bin/bash
+printenv $TRUEKNOWLEGE |(grep -w "128" ":" "\n")
