@@ -13,3 +13,4 @@
 13-print_float - is a script that prints a nuber with two decimal places, followed by a new line
 14-decimal_to_hexadecimal - is a script that converts a number from base 10 to base 16
 15-rot13 - is a script that encodes and decodes text using rot13 encryption.Assume ASCII
+16-odd - is a script that prints every other line from the input, starting with the first line
