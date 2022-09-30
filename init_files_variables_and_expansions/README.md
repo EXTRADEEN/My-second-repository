@@ -14,3 +14,4 @@
 14-decimal_to_hexadecimal - is a script that converts a number from base 10 to base 16
 15-rot13 - is a script that encodes and decodes text using rot13 encryption.Assume ASCII
 16-odd - is a script that prints every other line from the input, starting with the first line
+17water_and_stir - is a script that adds the two nubers stored in the environment voriable "WATER" and "STIR" and prints the result
